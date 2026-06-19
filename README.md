@@ -223,8 +223,13 @@ The AI-Enhanced Intrusion Detection System demonstrates how Machine Learning can
 
 ---
 
-## 👨‍💻 Developed By
+# Group Project By                       PRN No
+Sanika Arjun Savant.                    2023011032083
 
-**Bilal Mirje**
+Shafika Shakil Nadaf.                   2023011032057
+
+Gauri Anil Chougale.                    2023011032011
+
+D Y Patil Agriculture and Technical University, Talsande
 
 ---
